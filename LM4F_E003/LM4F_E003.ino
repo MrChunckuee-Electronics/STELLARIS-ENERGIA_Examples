@@ -3,7 +3,7 @@
  *                  Manejo del puerto serie
  *
  *******************************************************************************
- * FileName:        LM4F_E002
+ * FileName:        LM4F_E003
  * Processor:       EX-LM4F120XL
  * Complier:        Energia 0101e0017
  * Author:          Pedro Sánchez (MrChunckuee)
