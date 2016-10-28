@@ -19,7 +19,7 @@
 const int pinLM35 = A0; // Pin analogico
 int muestras, valueADC = 0; 
 float mvADC = 0;
-float tempLM35 = 0;
+float tempLM35 = 0; //Para almacenar °C
 
 void setup(){
   Serial.begin(9600); // Start serial port at 9600 bps 
