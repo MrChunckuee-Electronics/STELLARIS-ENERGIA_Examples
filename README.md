@@ -8,3 +8,4 @@ Aquí encontraras una lista de material disponible sobre la Stellaris LauchPad d
 - LM4F_E001: Uso de entradas y salidas digitales.
 - LM4F_E002: Controlando tira de LEDs RGB
 - LM4F_E003: Manejo del puerto serie - Endencery apagar LEDs
+- LM4F_E003: Entradas analógicas - Sensor de temperatura LM35
