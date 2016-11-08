@@ -9,4 +9,4 @@ Aquí encontraras una lista de material disponible sobre la Stellaris LauchPad d
 - LM4F_E002: Controlando tira de LEDs RGB
 - LM4F_E003: Manejo del puerto serie - Endencery apagar LEDs
 - LM4F_E004: Entradas analógicas - Sensor de temperatura LM35
-- LM4F_E005: Graficar temperatura LM35
+- LM4F_E005: Graficar temperatura del LM35 en Processing
