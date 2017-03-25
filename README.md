@@ -1,6 +1,6 @@
 #STELLARIS ENERGIA Examples
 ***
-Aquí encontraras una lista de material disponible sobre la Stellaris LauchPad de Texas instruments , programada usando Energia, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [**E&R by MrChuckuee**] (http://mrchunckuee.blogspot.mx/p/stellaris-lauchpad-y-nergia.html)
+Aquí encontraras una lista de material disponible sobre la Stellaris LauchPad de Texas instruments , programada usando Energia, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [**E&R by MrChuckuee**](http://mrchunckuee.blogspot.mx/p/stellaris-lauchpad-y-nergia.html)
 <p align="center">
   <img src="https://2.bp.blogspot.com/-8d6eJfNgzsM/V147-BGHXcI/AAAAAAAADKQ/HX2cGRPv8mUKDNEwyPcN8qZ4hamIqc_6QCLcB/s400/stellaris%2Blauchpad%2By%2Benergia.png"/>
 </p>
