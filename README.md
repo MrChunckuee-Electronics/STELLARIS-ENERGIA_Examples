@@ -14,7 +14,8 @@ Aquí encontraras una lista de material disponible sobre la Stellaris LauchPad d
 - LM4F_E005: Graficar temperatura del LM35 en Processing
 - LM4F_E006: Uso de dos puertos serie
 - LM4F_E007: Encender/Apagar LED via bluetooth
-- LM4F_E008: Envio de datos al puerto serie para monitoreo en Python
+- LM4F_E008: Envio de datos al puerto serie para monitoreo en Python (Parte 1)
+- LM4F_E008: Envio de datos al puerto serie para monitoreo en Python (Parte 2)
 
 ***
 Puedes seguirme en:
