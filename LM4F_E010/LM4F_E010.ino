@@ -15,7 +15,7 @@
  *                  LED Azul, si se vuelve a pulsar SW1 el envio se detiene. 
  *******************************************************************************
  * Rev.         Date            Comment
- *   v0.0.0     22/02/2019      Creación del firmware
+ *   v0.0.0     04/06/2019      Creación del firmware
  ******************************************************************************/
 
 #include "DHT.h"
