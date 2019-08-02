@@ -4,7 +4,7 @@
  *    Recepción datos del DHT22 a través del puerto serie
  *
  *******************************************************************************
- * FileName:        PY_002.py
+ * FileName:        PY_003.py
  * Complier:        EPython 3.7.1
  * Author:          Pedro Sánchez (MrChunckuee)
  * Blog:            http://mrchunckuee.blogspot.com/
