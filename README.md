@@ -17,6 +17,7 @@ Aquí encontraras una lista de material disponible sobre la Stellaris LauchPad d
 - LM4F_E008: Envio de datos al puerto serie para monitoreo en Python (Parte 1)
 - LM4F_E009: Envio de datos al puerto serie para monitoreo en Python (Parte 2)
 - LM4F_E010: Prueba del sensor DHT22 - Envio de datos al monitor serial de Energia
+- LM4F_E011: Enviar datos del DHT22 a través del puerto serie a Python 
 
 ***
 Puedes seguirme en:
