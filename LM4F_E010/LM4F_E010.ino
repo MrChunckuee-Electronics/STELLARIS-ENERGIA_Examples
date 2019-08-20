@@ -12,7 +12,7 @@
  * Description:     Este ejemplo se basa en la libreria de Adafruit para el 
  *                  sensor de temperatura y humedad DHT22, cuando sepulsa SW1
  *                  la Stellaris envia los datos al monitor serial y realiza 
- *                  un blink en el LED Azul, si se vuelve a pulsar SW1 el 
+ *                  un blink en el LED Azul, cuando se vuelve a pulsar SW1 el 
  *                  envio se detiene y tambien el blink. 
  *******************************************************************************
  * Rev.         Date            Comment
