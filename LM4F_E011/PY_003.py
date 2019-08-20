@@ -9,7 +9,7 @@
  * Author:          Pedro Sánchez (MrChunckuee)
  * Blog:            http://mrchunckuee.blogspot.com/
  * Email:           mrchunckuee.psr@gmail.com
- * Description:     Ejemplo de recepcion de datos atravez de un puerto COM
+ * Description:     Ejemplo de recepción de datos atravez de un puerto COM
  *                  usando la libreria pySerial.
  *******************************************************************************
  * Rev.         Date            Comment
