@@ -22,8 +22,8 @@
 #define pinLedBlueStatus  BLUE_LED
 #define pinClkDriver      PA_2
 #define pinCwCcwDriver    PA_3
-#define pinMode1Driver    PA_4
-#define pinMode2Driver    PB_6
+#define pinMode0Driver    PA_4
+#define pinMode1Driver    PB_6
 #define pinEnableDriver   PB_7
 #define pinPSDriver       PF_0
 
@@ -39,15 +39,15 @@ void setup() {
   pinMode(pinLedBlueStatus, OUTPUT);
   pinMode(pinClkDriver, OUTPUT);
   pinMode(pinCwCcwDriver, OUTPUT);
+  pinMode(pinMode0Driver, OUTPUT);
   pinMode(pinMode1Driver, OUTPUT);
-  pinMode(pinMode2Driver, OUTPUT);
   pinMode(pinEnableDriver, OUTPUT);
   pinMode(pinPSDriver, OUTPUT);
 
   //Init default driver
   digitalWrite(pinCwCcwDriver, LOW); //Clockwise
+  digitalWrite(pinMode0Driver, LOW); //Full step
   digitalWrite(pinMode1Driver, LOW); //Full step
-  digitalWrite(pinMode2Driver, LOW); //Full step
   digitalWrite(pinEnableDriver, HIGH); //Active
   digitalWrite(pinPSDriver, HIGH); //Active
 }
