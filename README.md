@@ -23,6 +23,13 @@ Aquí encontraras una lista de material disponible sobre la Stellaris LauchPad d
 ***
 Puedes seguirme en:
 - [Blogspot](http://mrchunckuee.blogspot.com)
+- [Instagram](https://www.instagram.com/mrchunckuee_electronics/)
+- [Facebook](https://www.facebook.com/MrChunckueeElectronics)
+- [Twitter](https://twitter.com/MrChunckuee)
+- [YouTube](https://www.youtube.com/@MrChunckueeElectronics)
+***
+Puedes seguirme en:
+- [Blogspot](http://mrchunckuee.blogspot.com)
 - [Facebook](https://www.facebook.com/ElectronicayRobotica)
 - [Twitter](https://twitter.com/MrChunckuee)
 - [GitHub](https://github.com/MrChunckuee)
